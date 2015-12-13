@@ -1,0 +1,40 @@
+{
+    "movies": [
+        {
+            "movie_title": "City of God",
+            "movie_storyline": "15 Miles from paradise is a place called the city of god",
+            "poster_image": "https://upload.wikimedia.org/wikipedia/en/1/10/CidadedeDeus.jpg",
+            "trailer_youtube": "https://www.youtube.com/watch?v=ioUE_5wpg_E"
+        },
+        {
+            "movie_title": "Arn: Knight Templar",
+            "movie_storyline": "A nobleman becomes a crusder in penance for sin",
+            "poster_image": "https://upload.wikimedia.org/wikipedia/en/1/19/Arn_-_The_Knight_Templar_poster.jpg",
+            "trailer_youtube": "https://www.youtube.com/watch?v=1EAqu28Dd-M"
+        },
+        {
+            "movie_title": "O Brother, Where Art Thou?",
+            "movie_storyline": "A man trying to return home, ref the Oddesy",
+            "poster_image": "https://upload.wikimedia.org/wikipedia/en/5/5b/O_brother_where_art_thou_ver1.jpg",
+            "trailer_youtube": "https://www.youtube.com/watch?v=kID9iXY5Nuk"
+        },
+        {
+            "movie_title": "Waking Life",
+            "movie_storyline": "Dreams, conciousness, free will and exsitentialism explored",
+            "poster_image": "https://upload.wikimedia.org/wikipedia/en/9/98/Waking-Life-Poster.jpg",
+            "trailer_youtube": "https://www.youtube.com/watch?v=RItiQgOzur0"
+        },
+        {
+            "movie_title": "Fight Club",
+            "movie_storyline": "Questioning identity and societal norms through shock",
+            "poster_image": "https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg",
+            "trailer_youtube": "https://www.youtube.com/watch?v=J8FRBYOFu2w"
+        },
+        {
+            "movie_title": "Matrix",
+            "movie_storyline": "Is reality really what you think it is? Enter the Matrix",
+            "poster_image": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
+            "trailer_youtube": "https://www.youtube.com/watch?v=vKQi3bBA1y8"
+        }
+    ]
+}
