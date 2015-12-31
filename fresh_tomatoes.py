@@ -103,7 +103,6 @@ MAINPAGECONTENT = '''
         </div>
       </div>
     </div>
-
     <!-- Main Page Content -->
     <div class="container">
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
@@ -165,8 +164,8 @@ def open_movies_page(movies):
 
     # Replace the placeholder for the movie tiles with the actual dynamically
     # generated content
-    movie_titles = create_movie_tiles_content(movies)
-    rendered_content = MAINPAGECONTENT.format(movie_titles)
+    movie_tiles_in = create_movie_tiles_content(movies)
+    rendered_content = MAINPAGECONTENT.format(movie_tiles=movie_tiles_in)
 
     # Output the file
     output_file.write(MAINPAGEHEAD + rendered_content)
