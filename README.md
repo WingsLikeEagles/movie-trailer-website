@@ -50,7 +50,7 @@ print (my_movie.title)
 
 ### Adding more movies
 
-Movies displayed on the movie trailer website are defined in movies_list.py changes can be made there to add additonal movies to the site.
+Movies displayed on the movie trailer website are defined in movies.json changes can be made there to add additonal movies to the site.
 
 *Author: Bryan Apperson*
 
